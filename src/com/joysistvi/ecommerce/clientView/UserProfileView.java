@@ -12,6 +12,12 @@ import static com.joysistvi.ecommerce.utils.ClearScreen.clearScreen;
 import static com.joysistvi.ecommerce.utils.Scan.scanner;
 
 /**
+ *
+ * @author myongson
+ */
+
+
+/**
  * UserProfileView manages customer profile views, phone/address updates, password changes, and order history cards.
  */
 public class UserProfileView {

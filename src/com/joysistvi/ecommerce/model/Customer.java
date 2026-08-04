@@ -1,8 +1,15 @@
 package com.joysistvi.ecommerce.model;
 
+
+/**
+ *
+ * @author myongson
+ */
+
 /**
  * Customer represents a customer profile entity containing address and phone contact details.
  */
+
 public class Customer {
 
     private int id;

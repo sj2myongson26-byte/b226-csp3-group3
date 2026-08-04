@@ -8,7 +8,7 @@ import static com.joysistvi.ecommerce.utils.ClearScreen.clearScreen;
 
 /**
  *
- * @author ktagl
+ * @author myongson
  */
 public class SplashScreen {
 

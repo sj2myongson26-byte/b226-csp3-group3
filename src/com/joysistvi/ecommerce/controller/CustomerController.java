@@ -5,6 +5,11 @@ import com.joysistvi.ecommerce.services.CustomerService;
 import java.util.List;
 
 /**
+ *
+ * @author myongson
+ */
+
+/**
  * CustomerController manages customer profile interactions between UI views and CustomerService.
  */
 public class CustomerController {

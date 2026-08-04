@@ -8,6 +8,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ *
+ * @author myongson
+ */
+
+
+/**
  * CustomerRepoImpl implements CustomerRepo data access operations for customer profiles in MySQL.
  */
 public class CustomerRepoImpl implements CustomerRepo {

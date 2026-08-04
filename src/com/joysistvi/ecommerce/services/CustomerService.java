@@ -7,6 +7,11 @@ import com.joysistvi.ecommerce.repository.CustomerRepoImpl;
 import java.util.List;
 
 /**
+ *
+ * @author myongson
+ */
+
+/**
  * CustomerService manages business logic and validation for customer profiles.
  */
 public class CustomerService {
